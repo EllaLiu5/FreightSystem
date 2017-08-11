@@ -1,0 +1,36 @@
+Unloading 0 A
+Unloading 0 B
+Unloading 0 C
+Unloading 0 D
+Unloading 0 Sydney
+Unloading 0 F
+Cost 1 A B
+Cost 1 A C
+Cost 1 A D
+Cost 1 A Sydney
+Cost 1 A F
+Cost 1 B C
+Cost 1 B D
+Cost 1 B Sydney
+Cost 1 B F
+Cost 1 C D
+Cost 1 C Sydney
+Cost 1 C F
+Cost 1 D Sydney
+Cost 1 D F
+Cost 1 Sydney F
+Job A B
+Job A C
+Job A D
+Job A Sydney
+Job A F
+Job B C
+Job B D
+Job B Sydney
+Job B F
+Job C D
+Job C Sydney
+Job C F
+Job D Sydney
+Job D F
+Job Sydney F

@@ -1,0 +1,29 @@
+#Min cost: 1300
+Unloading 0 Sydney           # Unloading cost is 120 in Sydney
+Unloading 0 A             # Unloading cost is 80 in Dubbo
+Unloading 0 B           # Unloading cost is 80 in Grafton
+Unloading 0 C            # Unloading cost is 120 in Wagga
+Unloading 0 D
+Unloading 0 E
+Unloading 0 F
+Unloading 0 G
+Cost 100 Sydney A
+Cost 100 Sydney B
+Cost 100 Sydney C
+Cost 100 A B
+Cost 100 A D
+Cost 100 B C
+Cost 100 B D
+Cost 100 B E
+Cost 100 C E
+Cost 100 D F
+Cost 100 D G
+Cost 100 E F
+Cost 100 F G
+Job A Sydney
+Job B C
+Job D G
+Job E B
+Job F G
+Job E C
+Job D F

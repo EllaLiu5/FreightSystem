@@ -1,0 +1,24 @@
+Unloading 0 Sydney
+Unloading 0 B
+Unloading 0 C
+Unloading 0 F
+Unloading 0 G
+Unloading 0 K
+Unloading 0 L
+Unloading 0 H
+Cost 20 Sydney B
+Cost 20 B C
+Cost 20 C F
+Cost 20 F Sydney
+Cost 500 Sydney L
+Cost 30 B G
+Cost 30 F K
+Cost 500 C H
+Job Sydney B
+Job C B
+Job C F
+Job Sydney F
+Job Sydney L
+Job B G
+Job C H
+Job F K
